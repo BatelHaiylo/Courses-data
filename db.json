@@ -1,0 +1,110 @@
+[
+    {
+      "cover": "https://calibraint-website.s3.us-east-2.amazonaws.com/calibraint-wordpress/wp-content/uploads/2020/02/12120312/UX-Design-Elements-Calibraint.jpg",
+      "courseName": "UI/UX Design Courses",
+      "teacher":{
+        "name": "Ph.D Adrian Molises",
+        "work": "DEVELOPER AND LEAD INSTRUCTOR"
+      },
+      "classes": "25 Classes"
+    },
+    {
+      "cover": ".https://cdn.thedesigninspiration.com/wp-content/uploads/2021/06/Difference-Between-Art-and-Design.jpg",
+      "courseName": "Art & Design",
+      "teacher":{
+        "name":"Ph.D Arthur MaGregor",
+        "work": "DEVELOPER AND LEAD INSTRUCTOR"
+      },
+      "classes": "35 Classes"
+    },
+    {
+      "cover": "https://washburnreview.org/wp-content/uploads/2022/08/lWFX9bpTEC7NCyrPHynUxs0uxBvDbulkA7Zv6tEE-900x600.jpeg",
+      "courseName": "Computer Science",
+      "teacher":{
+        "name": "Ph.D Anna Hanzen",
+        "work": "DEVELOPER AND LEAD INSTRUCTOR"
+      },
+      "classes": "10 Classes"
+    },
+    {
+      "cover": "https://media.istockphoto.com/vectors/archaeologist-discovering-dinosaurs-remains-vector-id1265167378?k=20&m=1265167378&s=612x612&w=0&h=9CvjQJR0sM0u1q8MS2zfRRe2v7lsb0x2fmiA_TlzzXI=",
+      "courseName": "History & Archeologic",
+      "teacher":{
+        "name": "Ph.D Brian Wooden",
+        "work": "DEVELOPER AND LEAD INSTRUCTOR"
+      },
+      "classes": "15 Classes"
+    },
+    {
+      "cover": "https://i.pinimg.com/originals/b5/d4/36/b5d4362f51274bcadc0f75f05ecf3592.jpg",
+      "courseName": "Software Engineering",
+      "teacher":{
+        "name": "Ph.D Alex Dobovich",
+        "work": "DEVELOPER AND LEAD INSTRUCTOR"
+      },
+      "classes": "30 Classes"
+    },
+    {
+      "cover": "https://img.freepik.com/premium-vector/cyber-security-software-information-security-program-antivirus-concept-flat-illustration_566886-2844.jpg",
+      "courseName": "Information Software",
+      "teacher":{
+        "name": "Ph.D Arthur MaGregor",
+        "work": "DEVELOPER AND LEAD INSTRUCTOR"
+      },
+      "classes": "60 Classes"
+    },
+    {
+      "cover": "https://cdn.dribbble.com/users/508588/screenshots/11181307/lncg_m80_05_4x.jpg",
+      "courseName": "Health & Fitness",
+      "teacher":{
+        "name": "Ph.D Anat Malasa",
+        "work": "DEVELOPER AND LEAD INSTRUCTOR"
+      },
+      "classes": "10 Classes"
+    },
+    {
+      "cover": "http://unblast.com/wp-content/uploads/2020/03/Marketing-and-Sales-Illustration-1.jpg",
+      "courseName": "Marketing",
+      "teacher":{
+        "name": "Ph.D Brain Meng",
+        "work": "DEVELOPER AND LEAD INSTRUCTOR"
+      },
+      "classes": "30 Classes"
+    },
+    {
+      "cover": "http://unblast.com/wp-content/uploads/2020/05/Graphic-Design-Vector-Illustration.jpg",
+      "courseName": "Graphic Design",
+      "teacher":{
+        "name": "Ph.D Ming Yang",
+        "work": "DEVELOPER AND LEAD INSTRUCTOR"
+      },
+      "classes": "80 Classes"
+    },
+    {
+      "cover": "https://i.pinimg.com/originals/4b/73/48/4b7348851e1ca3e5e614ed5aff6623e1.png",
+      "courseName": "Music",
+      "teacher":{
+        "name": "Ph.D Sou Alem",
+        "work": "DEVELOPER AND LEAD INSTRUCTOR"
+      },
+      "classes": "120 Classes"
+    },
+    {
+      "cover": "https://img.freepik.com/free-vector/business-team-discussing-ideas-startup_74855-4380.jpg",
+      "courseName": "Business Administration",
+      "teacher":{
+        "name": "Ph.D Orev Shan",
+        "work": "DEVELOPER AND LEAD INSTRUCTOR"
+      },
+      "classes": "17 Classes"
+    },
+    {
+      "cover": "https://media.istockphoto.com/vectors/database-sql-structured-query-language-people-team-discuss-coding-for-vector-id1352564117?k=20&m=1352564117&s=612x612&w=0&h=h-r1VEHGJl-4whcRMxxPvR7TSvvkOWTjGKIyBcSJkxg=",
+      "courseName": "Web Management",
+      "teacher":{
+        "name": "Ph.D Smelash Gevya",
+        "work": "DEVELOPER AND LEAD INSTRUCTOR"
+      },
+      "classes": "17 Classes"
+    }
+]
