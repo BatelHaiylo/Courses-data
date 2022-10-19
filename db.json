@@ -1,4 +1,4 @@
-[
+{"courses":[
     {
       "cover": "https://calibraint-website.s3.us-east-2.amazonaws.com/calibraint-wordpress/wp-content/uploads/2020/02/12120312/UX-Design-Elements-Calibraint.jpg",
       "courseName": "UI/UX Design Courses",
@@ -107,4 +107,4 @@
       },
       "classes": "17 Classes"
     }
-]
+]}
